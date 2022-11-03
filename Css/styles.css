@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+}
+
+table,
+th,
+td {
+    margin: auto;
+    border-spacing: 0;
+    border: 1px solid black;
+}
+.first {
+    background-color: darkgray;
+    color: black;
+    border-right: 1px solid black;
+}
+
+.last_letter {
+    background-color: yellow;
+}
+thead tr th {
+    background-color: rgb(14, 14, 93);
+    color: white;
+    border: 1px solid white;
+    padding: 0.5em;
+}
+.second {
+    background-color: yellow;
+    color: black;
+}
+
+.num {
+    border: 1px solid black;
+    background-color: darkgray;
+}
+
+.large {
+    width: 80%;
+}
+.d_name {
+    width: 50%;
+}
